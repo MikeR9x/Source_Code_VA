@@ -1,0 +1,5 @@
+batch: 16
+epochs: 60
+experiment_name: exp_yolo11m_60ep
+imgsz: 640
+model_name: yolo11m.pt
